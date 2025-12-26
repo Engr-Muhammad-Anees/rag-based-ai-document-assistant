@@ -1,0 +1,15 @@
+ langchain
+ google-generativeai 
+ google-genai
+ langchain
+ langchain-community
+ chromadb
+ sentence-transformers
+ pypdf
+ docx2txt
+ gradio
+ python-dotenv
+ requests 
+ pydantic
+ typing-extensions
+ sqlite3
